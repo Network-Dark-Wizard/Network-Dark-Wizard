@@ -1,4 +1,4 @@
-👋 Hi, I’m @Network-Dark-Wizard
+👋 Hi, I’m @Network-Wizard
 
 Welcome to my digital domain where technology meets magic. This repository is where I explore and document the latest in 💻Networking, 📟Security, 🧑‍💻DevOps, ☁️Cloud, 🤖AI, and 🔥Cutting Edge IT Trends.
 👀 I’m interested in:
