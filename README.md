@@ -15,6 +15,8 @@ Sure, here's a more concise version of your README sections:
 
     🤖 AI: Push forward with AI innovations that think and learn. Explore new developments through in-depth documentation and practical samples.
 
+    🐧 Linux: Some cool Linux stuff. Service implementation, hints, configs ,/etc !!
+
     🔥 Trends: Stay on top of emerging tech trends. Our resources include analyses, documentation, and samples to help you grasp and apply new technologies(SDN,XaaS,MEC,IOE,...).
 
 🌱 I’m currently learning:
